@@ -2,6 +2,8 @@
 
 Welcome to the official landing site for **AcreetionOS**, a custom Linux distribution designed for performance, security, and ease of use.
 
+**This is still a work in progress.**
+
 ## Features
 
 - **Lightweight**: Optimized for speed and minimal resource usage.
